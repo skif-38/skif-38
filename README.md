@@ -1,16 +1,18 @@
-## Hi there 👋
+<h2 align="start">Hello, I'm Mihail👋</h2>
 
-<!--
-**skif-38/skif-38** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<span align="start" 18 years old, Im student. </span>
+- [x] 🌐 Passionate about data science, backend, architecture, machine learning, infrastructure
 
-Here are some ideas to get you started:
+### Technology stack:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 📈 `Machine Learning & Data Science`
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" width="40" height="40"/>&nbsp;
+
+#### 🌐 `Backend & API`
+#####----
+#### 🛠️ `MLOps & Infrastructure`
+#####----
+
+#### ⚙️ `Tools & OS`
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" width="40" height="40"/>&nbsp; 
+<img src="https://www.pngarts.com/files/11/Windows-PNG-Free-Download.png" title="Windows" width="40" height="40"/>&nbsp; 
